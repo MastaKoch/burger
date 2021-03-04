@@ -1,0 +1,27 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "eat da burger",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MastaKoch/burger.git"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "Alex Koch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MastaKoch/burger/issues"
+  },
+  "homepage": "https://github.com/MastaKoch/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.2.1",
+    "mysql": "^2.18.1"
+  }
+}
