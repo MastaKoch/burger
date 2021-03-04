@@ -2,9 +2,9 @@
   "name": "burger",
   "version": "1.0.0",
   "description": "eat da burger",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "node index.js"
+
   },
   "repository": {
     "type": "git",
