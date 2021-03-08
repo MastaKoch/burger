@@ -7,7 +7,10 @@ h1, h3, h2, ul, .create-form{
     color: rgb(255, 40, 2);
 }
 
-
+header{
+    align-content: center;
+    text-align: center;
+}
 #submit{
     margin-top: 20px;
     padding: 20px;
