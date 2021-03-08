@@ -1,0 +1,16 @@
+body{
+    background-color: yellow;
+}
+
+h1, h3, h2, ul, .create-form{
+    text-align: center;
+    color: rgb(255, 40, 2);
+}
+
+
+#submit{
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 20%;
+    background-color: tomato;
+}
