@@ -1,10 +1,11 @@
 var express = require("express");
 var path = require('path');
+var app = express();
 
 app.use(express.static(path.join(__dirname, 'public')));
 var PORT = process.env.PORT || 8080;
 
-var app = express();
+
 
 // Serve static content for the app from the "public" directory in the application directory.
 app.use(express.static("public"));
